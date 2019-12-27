@@ -1,0 +1,32 @@
+body {
+	background-color: #645097;
+}
+
+h1 {
+	font-size: 25px;
+	font-family: Gill Sans, sans-serif;
+	color: #000029;
+}
+
+h3 {
+	font-size: 22px;
+	font-family: Franklin Gothic Book, serif;
+	color: #000029;
+}
+
+p {
+	font-family: Gill Sans, sans-serif;
+	font-size: 16px;
+	color: #dcc8ff;
+}
+
+#footer {
+	font-size: 14px;
+	font-family: monospace;
+
+}
+
+footer {
+	text-align: center;
+	padding-top: 10px;
+}
